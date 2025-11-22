@@ -1,5 +1,5 @@
 # Dounake: Double Snake Versus Game
-
+https://github.com/user-attachments/assets/e823ff60-fc4e-4116-9786-9b739f841b37
 ## Development
 * Setup trước khi code:
 ```
